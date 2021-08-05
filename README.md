@@ -166,7 +166,7 @@ AB_Test(dataframe=ab_test, group = "group", target = "converted")
 
 (A/B 테스트와 별도의 데이터를 활용하여 분석하였습니다.)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ed39a99-80f5-48e4-8b7d-b896af18e8ae/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ed39a99-80f5-48e4-8b7d-b896af18e8ae/Untitled.png)
+![image](https://user-images.githubusercontent.com/73736988/128311075-c80fa008-3534-495c-b6e7-acf7fcf3be7b.png)
 
 ### **Conclustion**
 
