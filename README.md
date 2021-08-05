@@ -158,3 +158,17 @@ AB_Test(dataframe=ab_test, group = "group", target = "converted")
 - 이 내용을 디자인팀에 빠르게 공유하여 후속 실험이 진행될 수 있도록 조치 하였습니다.
 
 ![image](https://user-images.githubusercontent.com/73736988/128304833-f3adcb3a-f8d6-4a4b-8bc4-68d880dd0307.png)
+
+---
+---
+
+# 2. Cohort Analytic
+
+(A/B 테스트와 별도의 데이터를 활용하여 분석하였습니다.)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ed39a99-80f5-48e4-8b7d-b896af18e8ae/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ed39a99-80f5-48e4-8b7d-b896af18e8ae/Untitled.png)
+
+### **Conclustion**
+
+- 해당 서비스를 이용하는 고객분들은 6주차가 되면 재구매활동이 줄어드는 것을 관측할 수 있다. 이를 기준으로 우리 고객들은 6주차부터 재구매를 하지 않는다는 가설을 새워 실험을 해볼 수 있다.
+- 또한, 2009-06, 2009-07, 2009-09, 2010-01 0주차에 큰 폭의 유입이 있는 것으로 관측이 되었다. 이때 행사를 진행하였는지 확인해볼 필요가 있고, 2주차까지 재구매 전환율을 약 50%로 추측해볼 수 있다. 사내에 비교한 프로모션 효율 관련 자료도 함께 검토하여 발견한 인사이트들이 맞는지 확인해볼 수 있다.
